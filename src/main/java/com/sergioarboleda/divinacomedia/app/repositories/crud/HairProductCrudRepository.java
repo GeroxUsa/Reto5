@@ -13,7 +13,7 @@ import org.springframework.data.mongodb.repository.Query;
 
 /**
  *
- * @author Felipe_Sandoval
+ * @author Geronimo
  */
 public interface HairProductCrudRepository extends MongoRepository<HairProduct,String>{
    

@@ -12,7 +12,7 @@ import org.springframework.data.mongodb.repository.Query;
 
 /**
  *
- * @author Felipe_Sandoval
+ * @author Geronimo
  */
 public interface UserCrudRepository extends MongoRepository<User, Integer>{
     

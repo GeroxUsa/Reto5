@@ -14,7 +14,7 @@ import org.springframework.data.mongodb.core.mapping.Document;
 
 /**
  *
- * @author Felipe_Sandoval
+ * @author Geronimo
  */
 @Data
 @NoArgsConstructor
